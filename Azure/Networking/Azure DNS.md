@@ -1,0 +1,1 @@
+This allows your different services to have specific names instead of IP addresses allowing them to be easier to use and remember. The DNS only applies to Azure's internal networks.
