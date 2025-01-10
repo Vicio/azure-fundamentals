@@ -1,0 +1,1 @@
+An assigned range of IP addresses that are unique within the VNet. There is usually a security layer between subnets.

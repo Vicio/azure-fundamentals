@@ -1,0 +1,1 @@
+Fully fledged cloud apps, like dropbox, Office 365, OneDrive. In these cases the application is ready to be used from the very beginning.

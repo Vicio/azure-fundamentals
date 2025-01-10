@@ -1,0 +1,1 @@
+A group that contains one or more [[Subscriptions]] and allows you to have a more centralized control over your different subscriptions. Group policies can be applied on this level allowing even more control.

@@ -1,0 +1,2 @@
+Regions that share backups of their data between them. The backup can be either two-way or one-way.
+Also, region pairs can be from different countries, but usually they are from the same country in order to keep up fast communication between the region pairs.

@@ -1,0 +1,1 @@
+A version of windows that runs on the cloud. In it you'll have a Windows that can be accessed everywhere and from multiple devices. In it you can have all your apps you need as well as information such as documents and code.

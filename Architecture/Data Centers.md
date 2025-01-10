@@ -1,0 +1,1 @@
+Building that holds all the infrastructure required to have a proper cloud (multiple sites with servers and storage). They have their independent power supplies, cooling, and network infrastructure.

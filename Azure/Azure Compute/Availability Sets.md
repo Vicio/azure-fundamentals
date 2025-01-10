@@ -1,0 +1,1 @@
+Multiple virtual machines that are critical and, although they execute the same code, you want them isolated from each other as not to compromise more of these machines in case one of them is compromised.

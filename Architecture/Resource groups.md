@@ -1,0 +1,2 @@
+A logical grouping of [[Resources]] which is tied to a region. By recommendation, the resources inside the resource group should have the same life cycle (deployed, configured and deleted together).
+All the resources can only belong to a single resource group. Permissions can be controlled at the resource group level, although not the same can be said about the security, where one resource can communicate with any other resource in the same or even in different groups.
