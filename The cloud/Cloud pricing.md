@@ -9,4 +9,4 @@
 * Bandwidth
 * Support
 
-[[CapEx vs OpEx]]
+### [[CapEx vs OpEx]]

@@ -35,24 +35,8 @@
               "icon": "lucide-file",
               "title": "The cloud"
             }
-          },
-          {
-            "id": "ab2fc2e08b7706b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Networking/Azure DNS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Azure DNS"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,41 +189,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab2fc2e08b7706b3",
+  "active": "932d5f80d93d2724",
   "lastOpenFiles": [
-    "Azure/Networking/Networking services.md",
-    "Azure/Networking/Azure DNS.md",
-    "Azure/Networking/VNet.md",
-    "Azure/Networking/Virtual Networks.md",
-    "Azure/Networking/Peering.md",
-    "Azure/Azure Compute/Compute services.md",
-    "Azure/Azure Compute/Azure Virtual Desktop.md",
-    "Azure/Azure Compute/Azure Functions.md",
-    "Azure/Azure Compute/Azure Container Services.md",
+    "The cloud/The cloud.md",
     "Azure/Azure Compute/App Services.md",
     "Azure/Azure Compute/Availability Sets.md",
-    "Azure/Networking/Security Groups.md",
-    "Azure/Networking/Subnets.md",
-    "Azure/Azure.md",
-    "The cloud/The cloud.md",
     "Azure/Azure Compute/Virtual Machines.md",
-    "github.pub",
-    "github",
-    "Azure/Networking/VNets.md",
+    "Azure/Azure Compute/Compute services.md",
+    "Azure/Azure.md",
+    "Architecture/Architecture.md",
+    "Architecture/Subscriptions.md",
+    "Architecture/Management groups.md",
+    "Architecture/Resource groups.md",
+    "Architecture/Resources.md",
+    "Architecture/Sovereign regions.md",
+    "Architecture/Region pairs.md",
     "Architecture/Regions.md",
     "Architecture/Availability Zones.md",
+    "Architecture/Data Centers.md",
+    "Service Types/Service Types.md",
+    "Service Types/Serverless.md",
+    "Service Types/SaaS.md",
+    "Service Types/PaaS.md",
     "Service Types/IaaS.md",
-    "Azure/Networking/Untitled.md",
+    "Benefits/Manageability.md",
+    "Benefits/Benefits.md",
+    "Benefits/Governance.md",
+    "Benefits/Security.md",
+    "Benefits/Predictability.md",
+    "images/CloudResponsibilities.png",
+    "github.pub",
+    "github",
     "Azure/Networking",
-    "Azure/Azure compute.md",
-    "Azure/Azure Compute/Proximity Groups.md",
-    "Azure/Azure Compute/VM Scale Sets.md",
-    "2025-01-07.md",
     "Untitled.canvas",
-    "The cloud/Types of cloud platforms.md",
     "Azure/Azure Compute",
     "Azure",
-    "Architecture",
-    "images/CloudResponsibilities.png"
+    "Architecture"
   ]
 }

@@ -2,4 +2,4 @@
 * ### [[Security Groups]]
 * ### [[Peering]]
 * ### [[Azure DNS]]
-* 
+* ### [[Azure VPN Gateway]]
