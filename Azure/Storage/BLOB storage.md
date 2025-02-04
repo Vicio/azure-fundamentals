@@ -1,0 +1,1 @@
+BLOB stands for Binary Large OBject and it is an unstructured data management solution, all kinds of files can be placed into it, and can be made publicly available.

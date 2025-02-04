@@ -1,0 +1,1 @@
+Is a specific setting when creating a General purpose storage account. It allows to use storage up to the amount of Exabytes.

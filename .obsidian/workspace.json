@@ -28,15 +28,31 @@
               "state": {
                 "file": "The cloud/The cloud.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "The cloud"
             }
+          },
+          {
+            "id": "1d81330603b212d9",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: graph.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +71,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -67,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "premi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,48 +192,49 @@
       }
     ],
     "direction": "horizontal",
-    "width": 533,
-    "collapsed": true
+    "width": 533
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "932d5f80d93d2724",
+  "active": "1d81330603b212d9",
   "lastOpenFiles": [
+    "Azure/IAS/Identity.md",
     "The cloud/The cloud.md",
-    "Azure/Azure Compute/App Services.md",
-    "Azure/Azure Compute/Availability Sets.md",
-    "Azure/Azure Compute/Virtual Machines.md",
-    "Azure/Azure Compute/Compute services.md",
+    "Azure/IAS/Entra ID.md",
+    "Azure/IAS/Access.md",
+    "Azure/IAS/IAS.md",
     "Azure/Azure.md",
-    "Architecture/Architecture.md",
-    "Architecture/Subscriptions.md",
-    "Architecture/Management groups.md",
-    "Architecture/Resource groups.md",
-    "Architecture/Resources.md",
-    "Architecture/Sovereign regions.md",
-    "Architecture/Region pairs.md",
-    "Architecture/Regions.md",
-    "Architecture/Availability Zones.md",
-    "Architecture/Data Centers.md",
-    "Service Types/Service Types.md",
-    "Service Types/Serverless.md",
-    "Service Types/SaaS.md",
-    "Service Types/PaaS.md",
-    "Service Types/IaaS.md",
-    "Benefits/Manageability.md",
-    "Benefits/Benefits.md",
-    "Benefits/Governance.md",
+    "Azure/IAS/Active Directory.md",
     "Benefits/Security.md",
-    "Benefits/Predictability.md",
+    "Architecture/Architecture.md",
+    "Benefits/Benefits.md",
+    "Service Types/Service Types.md",
+    "Azure/IAS",
+    "Azure/Azure Compute/Compute services.md",
+    "Azure/Storage/BLOB storage.md",
+    "Azure/Storage/Redundancy.md",
+    "Azure/Storage/Storage tiers.md",
+    "Azure/Storage/Storage services.md",
+    "Azure/Storage/Azure file sync.md",
+    "Azure/Storage/Access Tiers.md",
+    "Azure/Storage/Managed storage.md",
+    "Azure/Storage/General purpose.md",
+    "Azure/Storage/File storage.md",
+    "Azure/Storage/Azure files.md",
+    "The cloud/Shared Responsibility Model.md",
+    "Azure/Storage/Data lake.md",
+    "Azure/Storage/Unmanaged storage.md",
+    "Azure/Networking/Networking services.md",
+    "Azure/Storage",
     "images/CloudResponsibilities.png",
     "github.pub",
     "github",

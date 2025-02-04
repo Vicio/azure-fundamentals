@@ -1,0 +1,1 @@
+Used mainly in corporations to centrally manage users and profiles as well as access to resources. It uses protocols such as LDAP for communication.

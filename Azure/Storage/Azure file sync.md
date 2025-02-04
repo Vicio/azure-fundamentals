@@ -1,0 +1,1 @@
+Hybrid option (locally stored files with mirrored cloud files). Includes backups.

@@ -5,48 +5,62 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"The cloud\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16728319
       }
     },
     {
       "query": "path:Benefits  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 8405247
       }
     },
     {
       "query": "path:Architecture  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 16728128
       }
     },
     {
       "query": "path:\"Service Types\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:\"Azure/Azure Compute\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
+        "rgb": 4210943
       }
     },
     {
       "query": "path:Azure/Networking  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 4259648
+      }
+    },
+    {
+      "query": "path:Azure/Storage  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777024
+      }
+    },
+    {
+      "query": "path:Azure/IAS  ",
+      "color": {
+        "a": 1,
+        "rgb": 16744512
+      }
+    },
+    {
+      "query": "path:\"Azure/Azure Compute\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4259839
       }
     }
   ],
@@ -60,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6666666666666666,
+  "scale": 0.666666666666667,
   "close": true
 }
