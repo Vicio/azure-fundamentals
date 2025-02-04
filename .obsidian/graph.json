@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"The cloud\"  ",
@@ -77,7 +77,7 @@
   "nodeSizeMultiplier": 1.49913591476091,
   "lineSizeMultiplier": 1.99734927234927,
   "collapse-forces": false,
-  "centerStrength": 0.804054054054054,
+  "centerStrength": 0.850571725571726,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
