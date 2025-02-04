@@ -37,22 +37,21 @@
             }
           },
           {
-            "id": "1d81330603b212d9",
+            "id": "e2b572de7261c208",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Azure/IAS/Identity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: graph.json"
+              "icon": "lucide-file",
+              "title": "Identity"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 533
+    "width": 402,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,16 +205,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d81330603b212d9",
+  "active": "932d5f80d93d2724",
   "lastOpenFiles": [
     "Azure/IAS/Identity.md",
+    "Azure/Azure.md",
     "The cloud/The cloud.md",
+    "Benefits/Security.md",
     "Azure/IAS/Entra ID.md",
+    "Azure/IAS/Active Directory.md",
     "Azure/IAS/Access.md",
     "Azure/IAS/IAS.md",
-    "Azure/Azure.md",
-    "Azure/IAS/Active Directory.md",
-    "Benefits/Security.md",
     "Architecture/Architecture.md",
     "Benefits/Benefits.md",
     "Service Types/Service Types.md",

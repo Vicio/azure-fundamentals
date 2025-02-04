@@ -6,3 +6,9 @@ There are two main technologies for identity in azure:
 * [[Active Directory]]
 * [[Entra ID]]
 
+There are multiple benefits of using identity:
+* [[Security]]
+* Easier development and support
+* Centralized administration
+* Single sign-on
+* Integration with other Azure services
