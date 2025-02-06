@@ -3,4 +3,4 @@
 * #### [[Networking services]]
 * #### [[Storage services ]]
 * #### [[Database services]]
-#### There are other important concepts such as [[IAS]]
+#### There are other important concepts such as [[IAS]], [[Azure Management]], [[Azure Governance]] and [[Azure Monitoring]]
