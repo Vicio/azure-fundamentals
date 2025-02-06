@@ -1,0 +1,1 @@
+Is the method of authenticating by means other than using a passwords. These methods can vary from something you need to memorize, like a pin code or a gesture, to something that is unique of you like your fingerprints or your facial features.
