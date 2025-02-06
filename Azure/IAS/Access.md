@@ -1,0 +1,1 @@
+The means of approaching or entering a service, application or server after having been authenticated. Access is controlled by using [[Authorization]] to ensure the protection of certain features.

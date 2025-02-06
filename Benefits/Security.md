@@ -12,3 +12,5 @@ Cloud platforms are among the most targeted by hackers, and therefore they spend
 * Patches on systems
 * All info is encrypted by default
 * Firewalls and other security tools
+
+Inside azure, security is enforced using the [[Zero-Trust Model]]

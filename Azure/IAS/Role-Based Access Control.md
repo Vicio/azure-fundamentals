@@ -1,0 +1,1 @@
+A method for providing users access to specific features according to the roles they are assigned. This method ensures more control since only a small set of roles can be defined with the permissions required instead of having to assign each user specific permissions.
