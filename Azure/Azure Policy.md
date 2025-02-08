@@ -1,0 +1,1 @@
+Create or assign rules to some or all Azure resources and groups. It also allows the evaluation of such rules. Azure already has a predefined set of rules that can be chosen to be applied on any resources or groups.
