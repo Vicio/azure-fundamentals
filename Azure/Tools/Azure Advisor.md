@@ -1,0 +1,1 @@
+The advisor is a tools that monitors in order to provide recommendations about possible attacks, resource management, cost management, etc. The main categories in the advisor are cost, security, reliability, operational excellence and performance.

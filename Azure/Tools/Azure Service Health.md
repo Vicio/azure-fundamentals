@@ -1,0 +1,1 @@
+Another dashboard inside Azure that shows the health of the platform itself, not the user resources specific health. However, alerts can be created for when an issue in Azure might directly affect the users resources.

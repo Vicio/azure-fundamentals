@@ -35,8 +35,24 @@
               "icon": "lucide-file",
               "title": "The cloud"
             }
+          },
+          {
+            "id": "311429e8db3e8927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Tools/Azure Monitor.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure Monitor"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,16 +206,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "932d5f80d93d2724",
+  "active": "311429e8db3e8927",
   "lastOpenFiles": [
+    "Azure/Tools/Azure Monitoring.md",
     "The cloud/The cloud.md",
-    "Azure/Azure Monitoring.md",
-    "Microsoft Purview.md",
-    "Resource Locks.md",
-    "Azure/Azure Policy.md",
-    "Azure/Azure Governance.md",
+    "Azure/Tools/Azure Monitor.md",
+    "Azure/Tools/Azure Service Health.md",
+    "Azure/Tools/Azure Advisor.md",
+    "Azure/Tools/Microsoft Purview.md",
+    "Azure/Tools",
+    "Azure/Tools/Resource Locks.md",
+    "Azure/Tools/Azure Policy.md",
+    "Azure/Tools/Azure Governance.md",
     "Azure/Azure.md",
-    "Azure/Azure Management.md",
+    "Azure/Tools/Azure Management.md",
     "Azure/Management and Governance.md",
     "Benefits/Security.md",
     "Azure/IAS/Zero-Trust Model.md",
@@ -215,9 +235,6 @@
     "Azure/IAS/Passwordless.md",
     "Azure/IAS/MFA.md",
     "Azure/IAS/IAS.md",
-    "Architecture/Architecture.md",
-    "Benefits/Benefits.md",
-    "Service Types/Service Types.md",
     "Azure/IAS",
     "Azure/Storage",
     "images/CloudResponsibilities.png",
