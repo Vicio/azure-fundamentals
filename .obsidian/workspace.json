@@ -42,13 +42,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The cloud/The cloud.md",
+                "file": "Benefits/High Availability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The cloud"
+              "title": "High Availability"
             }
           }
         ],
@@ -208,9 +208,16 @@
   },
   "active": "6d5954a457ee0877",
   "lastOpenFiles": [
+    "Benefits/Security.md",
+    "Benefits/High Availability.md",
+    "Benefits/Benefits.md",
+    "The cloud/The cloud.md",
+    "Azure/Networking/Azure VPN Gateway.md",
+    "The cloud/Types of cloud platforms.md",
+    "The cloud/Cloud pricing.md",
+    "The cloud/Shared Responsibility Model.md",
     "Azure/Tools/Azure Monitor.md",
     "Azure/Tools/Azure Monitoring.md",
-    "The cloud/The cloud.md",
     "Azure/Tools/Azure Service Health.md",
     "Azure/Tools/Azure Advisor.md",
     "Azure/Tools/Microsoft Purview.md",
@@ -221,20 +228,13 @@
     "Azure/Azure.md",
     "Azure/Tools/Azure Management.md",
     "Azure/Management and Governance.md",
-    "Benefits/Security.md",
     "Azure/IAS/Zero-Trust Model.md",
     "Azure/IAS/Authorization.md",
     "Azure/IAS/Access.md",
     "Azure/IAS/Identity.md",
-    "The cloud/Cloud pricing.md",
     "The cloud/CapEx vs OpEx.md",
     "Azure/IAS/Active Directory.md",
     "Azure/IAS/Authentication.md",
-    "Azure/IAS/Entra ID.md",
-    "Azure/IAS/Role-Based Access Control.md",
-    "Azure/IAS/Passwordless.md",
-    "Azure/IAS/MFA.md",
-    "Azure/IAS/IAS.md",
     "Azure/IAS",
     "Azure/Storage",
     "images/CloudResponsibilities.png",

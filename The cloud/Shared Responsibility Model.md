@@ -1,5 +1,6 @@
 #### On premises responsibility
-* You're responsible of the whole service
+* You're responsible of the whole service.
+* You have a specific amount of capacity over which different services run. And over those services applications are created to make use of them.
 #### Cloud VM responsibility
 * You hand off the responsibility of having any physical server and all it requires (a site, a secured building, etc.)
 #### Cloud App Responsibility
