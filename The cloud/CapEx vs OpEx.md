@@ -9,6 +9,7 @@
 	* Deduction from taxes
 * Takes years to get your value back
 * Requires big initial investment
+* Usually considered for On-Premises
 
 ### Operating Expenses
 
@@ -19,4 +20,5 @@
 	* Marketing
 * Operating expenses reduce taxes
 * Requires small investment
+* Usually considered for the cloud
 
