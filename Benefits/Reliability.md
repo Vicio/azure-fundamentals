@@ -1,4 +1,4 @@
-The ability of a system to recover from failures
+The ability of a system to recover from failures (auto healing).
 
 ### Failures that can occur in a well designed system
 * Hardware failures (disk fail, CPU overheat, RAM  corruption)

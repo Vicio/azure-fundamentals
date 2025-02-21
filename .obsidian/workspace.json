@@ -42,13 +42,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Service Types/IaaS.md",
+                "file": "Benefits/Reliability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IaaS"
+              "title": "Reliability"
             }
           }
         ],
@@ -208,10 +208,13 @@
   },
   "active": "6d5954a457ee0877",
   "lastOpenFiles": [
+    "The cloud/Types of cloud platforms.md",
+    "Service Types/Serverless.md",
+    "Service Types/PaaS.md",
+    "Service Types/IaaS.md",
     "The cloud/Shared Responsibility Model.md",
     "Service Types/Service Types.md",
     "The cloud/The cloud.md",
-    "The cloud/Types of cloud platforms.md",
     "The cloud/CapEx vs OpEx.md",
     "Benefits/High Availability.md",
     "Benefits/Benefits.md",
@@ -232,9 +235,6 @@
     "Azure/Tools/Azure Management.md",
     "Azure/Management and Governance.md",
     "Azure/IAS/Zero-Trust Model.md",
-    "Azure/IAS/Authorization.md",
-    "Azure/IAS/Access.md",
-    "Azure/IAS/Identity.md",
     "Azure/IAS",
     "Azure/Storage",
     "images/CloudResponsibilities.png",
