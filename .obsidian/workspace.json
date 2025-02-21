@@ -42,13 +42,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The cloud/CapEx vs OpEx.md",
+                "file": "Service Types/IaaS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CapEx vs OpEx"
+              "title": "IaaS"
             }
           }
         ],
@@ -209,14 +209,15 @@
   "active": "6d5954a457ee0877",
   "lastOpenFiles": [
     "The cloud/Shared Responsibility Model.md",
+    "Service Types/Service Types.md",
+    "The cloud/The cloud.md",
+    "The cloud/Types of cloud platforms.md",
+    "The cloud/CapEx vs OpEx.md",
     "Benefits/High Availability.md",
     "Benefits/Benefits.md",
-    "The cloud/The cloud.md",
-    "The cloud/CapEx vs OpEx.md",
     "Benefits/Scalability.md",
     "Benefits/Security.md",
     "Azure/Networking/Azure VPN Gateway.md",
-    "The cloud/Types of cloud platforms.md",
     "The cloud/Cloud pricing.md",
     "Azure/Tools/Azure Monitor.md",
     "Azure/Tools/Azure Monitoring.md",
@@ -234,7 +235,6 @@
     "Azure/IAS/Authorization.md",
     "Azure/IAS/Access.md",
     "Azure/IAS/Identity.md",
-    "Azure/IAS/Active Directory.md",
     "Azure/IAS",
     "Azure/Storage",
     "images/CloudResponsibilities.png",

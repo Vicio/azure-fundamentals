@@ -21,4 +21,5 @@
 * Operating expenses reduce taxes
 * Requires small investment
 * Usually considered for the cloud
+* Consumption based
 
