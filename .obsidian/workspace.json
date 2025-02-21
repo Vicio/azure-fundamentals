@@ -42,13 +42,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benefits/High Availability.md",
+                "file": "The cloud/CapEx vs OpEx.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "High Availability"
+              "title": "CapEx vs OpEx"
             }
           }
         ],
@@ -208,8 +208,9 @@
   },
   "active": "6d5954a457ee0877",
   "lastOpenFiles": [
-    "Benefits/Security.md",
+    "Benefits/Scalability.md",
     "Benefits/High Availability.md",
+    "Benefits/Security.md",
     "Benefits/Benefits.md",
     "The cloud/The cloud.md",
     "Azure/Networking/Azure VPN Gateway.md",
@@ -234,7 +235,6 @@
     "Azure/IAS/Identity.md",
     "The cloud/CapEx vs OpEx.md",
     "Azure/IAS/Active Directory.md",
-    "Azure/IAS/Authentication.md",
     "Azure/IAS",
     "Azure/Storage",
     "images/CloudResponsibilities.png",
