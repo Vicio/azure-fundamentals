@@ -1,4 +1,4 @@
-## Capital Expenditure vs Operating Expenditure
+## Capital Expenditure vs Operating Expenditure (Pay as you go)
 ---
 ### Capital Expenses
 
