@@ -37,22 +37,37 @@
             }
           },
           {
-            "id": "d3c8c5f33ff748e5",
+            "id": "d8b72928d45ea58a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/Storage/Redundancy.md",
+                "file": "Azure/Azure Compute/App Service Free Plan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Redundancy"
+              "title": "App Service Free Plan"
+            }
+          },
+          {
+            "id": "519585f59d82b3af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure/Azure Compute/App Service Free Plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "App Service Free Plan"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,17 +221,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3c8c5f33ff748e5",
+  "active": "519585f59d82b3af",
   "lastOpenFiles": [
+    "Azure/Azure Compute/App Services.md",
     "The cloud/The cloud.md",
+    "Azure/Azure Compute/App Service Free Plan.md",
+    "Azure/Support/Professional Direct Support.md",
+    "Azure/Support/Standard Support.md",
+    "Azure/Support/Developer Support.md",
+    "Azure/Support/Basic Support.md",
+    "Service Types/PaaS.md",
+    "Azure/Storage/Redundancy.md",
     "Azure/Storage/General purpose.md",
     "Azure/Storage/Unmanaged storage.md",
     "Azure/Storage/Access Tiers.md",
     "Azure/Storage/Managed storage.md",
-    "Azure/Support/Professional Direct.md",
-    "Azure/Support/Standard.md",
-    "Azure/Support/Developer.md",
-    "Azure/Support/Basic.md",
     "Azure/Azure.md",
     "Azure/Support/Azure Support Plan.md",
     "Azure/Support",
@@ -231,10 +250,6 @@
     "Architecture/Management groups.md",
     "Architecture/Subscriptions.md",
     "Architecture/Resource groups.md",
-    "Architecture/Resources.md",
-    "Architecture/Regions.md",
-    "Architecture/Availability Zones.md",
-    "Architecture/Data Centers.md",
     "Azure/Tools",
     "Azure/IAS",
     "Azure/Storage",

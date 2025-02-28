@@ -1,4 +1,4 @@
-* [[Basic]]
-* [[Standard]]
-* [[Developer]]
-* [[Professional Direct]]
+* [[Basic Support]]
+* [[Standard Support]]
+* [[Developer Support]]
+* [[Professional Direct Support]]

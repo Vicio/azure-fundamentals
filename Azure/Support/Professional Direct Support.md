@@ -3,7 +3,7 @@ What does it include?
 * A price of 1000$ per month
 * Scope included for the whole business
 * Support for:
-	* All included in [[Standard]] plan, plus:
+	* All included in [[Standard Support]] plan, plus:
 		* Architecture personal guidance by a professional
 		* Automatic ticket creation API
 		* Reviews and advisory from ProDirect delivery managers

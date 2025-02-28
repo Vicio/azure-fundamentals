@@ -3,7 +3,7 @@ What does it include?
 * A price of 29$ per month
 * Scope included for trial and non-prod environments
 * Support for:
-	* All included in [[Basic]] plan, plus:
+	* All included in [[Basic Support]] plan, plus:
 		* Third party software
 		* Business hours mail and phone technical support
 		* Response within 8 business hours max

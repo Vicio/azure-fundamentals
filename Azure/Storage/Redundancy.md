@@ -1,2 +1,2 @@
 Azure by default makes 3 copies of every piece of data you upload, although all of them are kept on the same region.
-If you choose the option to use global redundancy, 6 copies are kept instead, 3 in the same region and 3 in another region.
+If you choose the option to use global redundancy, 6 copies are kept instead, 3 in the same region and 3 in another region, also called [[Read-Access Geo-Redundant Storage]].
